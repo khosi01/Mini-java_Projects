@@ -7,7 +7,7 @@ public class Main {
 
    System.out.print("============nested if statements==============\n");
 
-   boolean isStudent = false;
+   boolean isStudent = true;
    boolean isSenior = true;
    double price = 9.99;
 
