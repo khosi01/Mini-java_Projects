@@ -1,3 +1,4 @@
+package com.notes.basics;
 
 import java.util.Scanner;
 
