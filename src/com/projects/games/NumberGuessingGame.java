@@ -25,9 +25,9 @@ public class NumberGuessingGame {
             attempts++;
 
             if (guess > randomNumber) {
-                System.out.println("TOO LOW! Try again!");
+                System.out.println("LOWER THAN " + guess);
             } else if (guess < randomNumber) {
-                System.out.println("TOO HIGH! Try again!");
+                System.out.println("HIGHER THAN " + guess);
             }
             else  {
                 System.out.println("CORRECT! The number was " + randomNumber);

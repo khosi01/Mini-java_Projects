@@ -30,9 +30,6 @@ public class Methods {
         scanner.close();
     }
 
-
-
-
     static void happyBirthday(String name,  int age) {
         System.out.println("Happy birthday to you");
         System.out.printf("Happy birthday dear %s!\n", name);
